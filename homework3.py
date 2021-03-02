@@ -1,0 +1,5 @@
+a=str(input())
+b=str(input())
+print(len(a))
+k=a.split(b)
+print(k)
